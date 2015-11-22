@@ -57,7 +57,7 @@ This website monitors data from the SolarEdge company.  The following steps are 
 
 - This site enables users to query the data for a particular time interval
 - A trend line is provided 
-- It can be expanded 
+- This app can be expanded 
   + to pull data from the SolarEdge site in real-time
   + pull data for other installations (it's currently only got 1 supported site)
 
